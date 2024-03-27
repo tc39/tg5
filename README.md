@@ -6,15 +6,17 @@ See [Scope](#scope) for our mandate.
 
 ## Agenda
 
-see [2024-03-27](meetings/2024/2024-03-27.md) and [the backlog](meetings/backlog.md) 👀
+To be posted in /agendas
 
 ## Meetings
 
-Meetings occur every Wednesday and appear on the [TC39 private calendar](https://github.com/tc39/Reflector#tc39-private-calendar).
+Meetings occur the last Wednesday of the month and appear on the [TC39 private calendar](https://github.com/tc39/Reflector#tc39-private-calendar).
 
 Meeting link: https://meet.google.com/oti-hukx-zgc
 
-<!-- DST below -->
+## Notes
+
+To be posted in /meetings
 
 ### Last Wednesday of Every Month (Alternating)
 
