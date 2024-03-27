@@ -12,7 +12,7 @@ see [2024-03-27](meetings/2024/2024-03-27.md) and [the backlog](meetings/backlog
 
 Meetings occur every Wednesday and appear on the [TC39 private calendar](https://github.com/tc39/Reflector#tc39-private-calendar).
 
-Meeting link: [join zoom meeting](https://us02web.zoom.us/j/81143085896?pwd=TUE3WGgrdEZmNFZJc0g4QzBHUWczdz09)
+Meeting link: https://meet.google.com/oti-hukx-zgc
 
 <!-- DST below -->
 
@@ -24,7 +24,7 @@ Timeslot A
 | -----------: | --------------- |
 | US / Central | 10:00 Wednesday |
 |          CET | 16:00 Wednesday |
-|        China | 11:00 Wednesday  |
+|        China | 23:00 Wednesday  |
 
 Timeslot B
 
@@ -32,7 +32,7 @@ Timeslot B
 | -----------: | --------------- |
 | US / Central | 04:00 Wednesday |
 |          CET | 10:00 Wednesday |
-|        China | 17:00 Thursday  |
+|        China | 17:00 Wednesday  |
 
 ## Folks
 
