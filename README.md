@@ -8,15 +8,15 @@ See [Scope](#scope) for our mandate.
 
 To be posted in /agendas
 
+## Notes
+
+To be posted in /meetings
+
 ## Meetings
 
 Meetings occur the last Wednesday of the month and appear on the [TC39 private calendar](https://github.com/tc39/Reflector#tc39-private-calendar).
 
 Meeting link: https://meet.google.com/oti-hukx-zgc
-
-## Notes
-
-To be posted in /meetings
 
 ### Last Wednesday of Every Month (Alternating)
 
