@@ -1,6 +1,6 @@
 # TC39-TG5: Experiments in programming language standardization
 
-This repository contains documents, agendas, and notes for the [ECMAScript - Research Task Group (TC39-TG5)](https://ecma-international.org/task-groups/tc39-tg3/).
+This repository contains documents, agendas, and notes for the [ECMAScript - Research Task Group (TC39-TG5)](https://ecma-international.org/task-groups/tc39-tg5/).
 
 See [Scope](#scope) for our mandate.
 
