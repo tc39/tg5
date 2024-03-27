@@ -26,7 +26,9 @@ Timeslot A
 | -----------: | --------------- |
 | US / Central | 10:00 Wednesday |
 |          CET | 16:00 Wednesday |
-|        China | 23:00 Wednesday  |
+|        China | 23:00 Wednesday |
+|        Seoul | 00:00 Thursday  |
+|        Tokyo | 00:00 Thursday  |
 
 Timeslot B
 
@@ -34,7 +36,9 @@ Timeslot B
 | -----------: | --------------- |
 | US / Central | 04:00 Wednesday |
 |          CET | 10:00 Wednesday |
-|        China | 17:00 Wednesday  |
+|        China | 17:00 Wednesday |
+|        Seoul | 18:00 Wednesday |
+|        Tokyo | 18:00 Wednesday |
 
 ## Folks
 
