@@ -6,17 +6,17 @@ See [Scope](#scope) for our mandate.
 
 ## Agenda
 
-To be posted in /agendas
+To be posted in `/agendas`
 
 ## Notes
 
-To be posted in /meetings
+To be posted in `/meetings`
 
 ## Meetings
 
 Meetings occur the last Wednesday of the month and appear on the [TC39 private calendar](https://github.com/tc39/Reflector#tc39-private-calendar).
 
-Meeting link: https://meet.google.com/oti-hukx-zgc
+Meeting link: https://mozilla.zoom.us/j/91426322794?pwd=VmsvdS96c281OE41TENMM0ZUUnN4dz09
 
 ### Last Wednesday of Every Month (Alternating)
 
@@ -26,9 +26,9 @@ Timeslot A
 | -----------: | --------------- |
 | US / Central | 10:00 Wednesday |
 |          CET | 16:00 Wednesday |
-|        China | 23:00 Wednesday |
-|        Seoul | 00:00 Thursday  |
-|        Tokyo | 00:00 Thursday  |
+|        China | 22:00 Wednesday |
+|        Seoul | 23:00 Wednesday  |
+|        Tokyo | 23:00 Wednesday  |
 
 Timeslot B
 
@@ -36,9 +36,9 @@ Timeslot B
 | -----------: | --------------- |
 | US / Central | 04:00 Wednesday |
 |          CET | 10:00 Wednesday |
-|        China | 17:00 Wednesday |
-|        Seoul | 18:00 Wednesday |
-|        Tokyo | 18:00 Wednesday |
+|        China | 16:00 Wednesday |
+|        Seoul | 17:00 Wednesday |
+|        Tokyo | 17:00 Wednesday |
 
 ## Folks
 
