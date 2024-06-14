@@ -18,9 +18,7 @@ Meetings occur the last Wednesday of the month and appear on the [TC39 private c
 
 Meeting link: https://mozilla.zoom.us/j/91426322794?pwd=VmsvdS96c281OE41TENMM0ZUUnN4dz09
 
-### Last Wednesday of Every Month (Alternating)
-
-Timeslot A
+**Last Wednesday of Every Month**
 
 |              |                 |
 | -----------: | --------------- |
@@ -32,17 +30,6 @@ Timeslot A
 |        Seoul | 23:00 Wednesday  |
 |        Tokyo | 23:00 Wednesday  |
 
-Timeslot B
-
-|              |                 |
-| -----------: | --------------- |
-| US / Pacific | 01:00 Wednesday |
-| US / Central | 03:00 Wednesday |
-| US / Eastern | 04:00 Wednesday |
-|          CET | 10:00 Wednesday |
-|        China | 16:00 Wednesday |
-|        Seoul | 17:00 Wednesday |
-|        Tokyo | 17:00 Wednesday |
 
 ## Folks
 
